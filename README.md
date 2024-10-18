@@ -68,11 +68,9 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="![gif waifu](https://github.com/user-attachments/assets/657c8584-f306-4d5e-a3c6-f678e3fcd997)"  />
+![gif waifu](https://github.com/user-attachments/assets/657c8584-f306-4d5e-a3c6-f678e3fcd997)
 
 ###
 
-<img src="https://raw.githubusercontent.com/DeazardMuhammad/DeazardMuhammad/output/snake.svg" alt="Snake animation" />
 
 ###
