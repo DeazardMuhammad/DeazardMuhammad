@@ -66,9 +66,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-<div align="center">
-  ![gif waifu](https://github.com/user-attachments/assets/657c8584-f306-4d5e-a3c6-f678e3fcd997)
-</div>
+https://github.com/user-attachments/assets/657c8584-f306-4d5e-a3c6-f678e3fcd997
 
 ###
 
