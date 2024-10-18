@@ -66,11 +66,11 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-https://github.com/user-attachments/assets/657c8584-f306-4d5e-a3c6-f678e3fcd997
 
 ###
 
-###
-
+<div align="center">
+  <img height="250" src="https://github.com/user-attachments/assets/4430333e-a05c-48f7-96c6-1b22a50f2eb3"  />
+</div>
 
 ###
