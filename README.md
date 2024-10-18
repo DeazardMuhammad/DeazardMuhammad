@@ -73,4 +73,8 @@
   <img height="250" src="https://github.com/user-attachments/assets/4430333e-a05c-48f7-96c6-1b22a50f2eb3"  />
 </div>
 
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ###
