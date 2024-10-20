@@ -1,5 +1,7 @@
 <h2 align="center">Hola 👋, I'm Deazard Muhammad Arrayyan</h2>
-
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=deazardmuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="deazardmuhammad" />
+</div>
 ###
 
 <br clear="both">
@@ -12,9 +14,7 @@
 
 ###
 
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=deazardmuhammad&label=Profile%20views&color=0e75b6&style=flat" alt="deazardmuhammad" />
-</div>
+
 
 ###
 
